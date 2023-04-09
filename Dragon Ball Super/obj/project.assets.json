@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\007_D\\source\\repos\\Dragon Ball Super\\Dragon Ball Super\\Dragon Ball Super.csproj",
+      "projectUniqueName": "C:\\Users\\007_D\\Documents\\GitHub\\Dragon_Ball_Super\\Dragon Ball Super\\Dragon Ball Super.csproj",
       "projectName": "Dragon Ball Super",
-      "projectPath": "C:\\Users\\007_D\\source\\repos\\Dragon Ball Super\\Dragon Ball Super\\Dragon Ball Super.csproj",
+      "projectPath": "C:\\Users\\007_D\\Documents\\GitHub\\Dragon_Ball_Super\\Dragon Ball Super\\Dragon Ball Super.csproj",
       "packagesPath": "C:\\Users\\007_D\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\007_D\\source\\repos\\Dragon Ball Super\\Dragon Ball Super\\obj\\",
+      "outputPath": "C:\\Users\\007_D\\Documents\\GitHub\\Dragon_Ball_Super\\Dragon Ball Super\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8bpHGvSPVnd/XEYDD776w8/HGJv5jtlSCfhuiAQbTPBkkf6Vw7pjTbKiwtWhFbqaiJaLXmB2Ky0YKBetEOhB0A==",
+  "dgSpecHash": "Nqxed2Qg1oNY6UATQhQNvVmFIqQRQoHolsHgrx6wyex1P5LIGGB8ykgbe5a8GmmRPEm8vVyJHoeHJbuJA9On2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\007_D\\source\\repos\\Dragon Ball Super\\Dragon Ball Super\\Dragon Ball Super.csproj",
+  "projectFilePath": "C:\\Users\\007_D\\Documents\\GitHub\\Dragon_Ball_Super\\Dragon Ball Super\\Dragon Ball Super.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\007_D\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
