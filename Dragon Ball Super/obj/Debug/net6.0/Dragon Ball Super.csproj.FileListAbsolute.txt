@@ -1,0 +1,17 @@
+C:\Users\007_D\source\repos\Dragon Ball Super\Dragon Ball Super\bin\Debug\net6.0\Dragon Ball Super.exe
+C:\Users\007_D\source\repos\Dragon Ball Super\Dragon Ball Super\bin\Debug\net6.0\Dragon Ball Super.deps.json
+C:\Users\007_D\source\repos\Dragon Ball Super\Dragon Ball Super\bin\Debug\net6.0\Dragon Ball Super.runtimeconfig.json
+C:\Users\007_D\source\repos\Dragon Ball Super\Dragon Ball Super\bin\Debug\net6.0\Dragon Ball Super.dll
+C:\Users\007_D\source\repos\Dragon Ball Super\Dragon Ball Super\bin\Debug\net6.0\Dragon Ball Super.pdb
+C:\Users\007_D\source\repos\Dragon Ball Super\Dragon Ball Super\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\007_D\source\repos\Dragon Ball Super\Dragon Ball Super\obj\Debug\net6.0\Dragon Ball Super.csproj.AssemblyReference.cache
+C:\Users\007_D\source\repos\Dragon Ball Super\Dragon Ball Super\obj\Debug\net6.0\Dragon Ball Super.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\007_D\source\repos\Dragon Ball Super\Dragon Ball Super\obj\Debug\net6.0\Dragon Ball Super.AssemblyInfoInputs.cache
+C:\Users\007_D\source\repos\Dragon Ball Super\Dragon Ball Super\obj\Debug\net6.0\Dragon Ball Super.AssemblyInfo.cs
+C:\Users\007_D\source\repos\Dragon Ball Super\Dragon Ball Super\obj\Debug\net6.0\Dragon Ball Super.csproj.CoreCompileInputs.cache
+C:\Users\007_D\source\repos\Dragon Ball Super\Dragon Ball Super\obj\Debug\net6.0\Dragon Ball Super.csproj.CopyComplete
+C:\Users\007_D\source\repos\Dragon Ball Super\Dragon Ball Super\obj\Debug\net6.0\Dragon Ball Super.dll
+C:\Users\007_D\source\repos\Dragon Ball Super\Dragon Ball Super\obj\Debug\net6.0\refint\Dragon Ball Super.dll
+C:\Users\007_D\source\repos\Dragon Ball Super\Dragon Ball Super\obj\Debug\net6.0\Dragon Ball Super.pdb
+C:\Users\007_D\source\repos\Dragon Ball Super\Dragon Ball Super\obj\Debug\net6.0\Dragon Ball Super.genruntimeconfig.cache
+C:\Users\007_D\source\repos\Dragon Ball Super\Dragon Ball Super\obj\Debug\net6.0\ref\Dragon Ball Super.dll
