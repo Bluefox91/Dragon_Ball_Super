@@ -5,7 +5,7 @@ using Newtonsoft.Json;
 Console.WriteLine("Hello, World!");
 Console.WriteLine();
 var data = await GetApiResponse();
- 
+  
 for (int i = 0; i < data.characters.Count; i++)
 {
     Random random = new Random();
